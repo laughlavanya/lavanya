@@ -27,7 +27,7 @@ Here’s a little about me:
 
 ## 📈 Featured Projects
 - [SMS Spam Detection using NLP – Python, Scikit-learn, TF-IDF ](https://github.com/laughlavanya/lavanya/blob/main/Project_AIML.ipynb)  
-  Developed a RAG system to answer user queries using a knowledge base of AI-related documents. Generated semantic embeddings using SentenceTransformers (all-MiniLM-L6-v2). Implemented cosine similarity search to retrieve the most relevant document. Built a command-line chatbot interface for contextual question answering.
+Built a binary classification model using the SMS Spam dataset (5,500+ messages).Performed text preprocessing including cleaning, punctuation removal, and URL filtering.Converted text data into features using TF-IDF vectorization.Trained Logistic Regression model and evaluated using accuracy and F1-score. 
 
 ---
 
